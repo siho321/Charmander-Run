@@ -1,0 +1,18 @@
+This game is a bit laggy in Replit, you may want to download it and work on it in Thonny. 
+
+Things that could be improved. 
+1. Make the character an image. 
+2. Add more textures (walls and enemies).
+3. A way to kill enemies.
+4. Coins to collect.
+5. Decrease hitbox size on the obstacles. 
+6. Add levels. 
+
+Things we did improve.
+1. Fixed movements with speed and adjusted for lag on replit
+2. Changed character image
+3. Added more texture (mossy walls and waves)
+4. Changed keys to sushi and changed the frequency at which they appear
+5. Added the function where once the sushi is eaten, the pokemon evolves and the image becomes larger
+6. Changed door and end screen
+7. Changed level layout
